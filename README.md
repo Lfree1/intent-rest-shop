@@ -15,3 +15,5 @@ Vue Front End hosted at localhost:8080 by default
 Node REST API hosted at localhost:3000 by default  
 
 To run the reccomended unit tests run command `npm run test` from top directory in a new command prompt window while npm run local has been run in another command window.  
+
+Please note running the test suite will affect what is in the cart as the test suite does not clear the cart. In otherwords if you run the test suite the contents of your cart will be updated.
